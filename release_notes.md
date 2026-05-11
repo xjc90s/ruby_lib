@@ -1,3 +1,9 @@
+#### v16.3.0 2026-05-11
+
+- [8b80a78](https://github.com/appium/ruby_lib/commit/8b80a78e1bf1053e8f9a3f16bec3205a766f7faa) Release 16.3.0
+- [b06fc08](https://github.com/appium/ruby_lib/commit/b06fc08fd7f6855189e46adb55574a34816984a2) feat: bump the ruby_lib_core to require 13+ for some implementation (#1111)
+
+
 #### v16.2.0 2026-04-19
 
 - [939a204](https://github.com/appium/ruby_lib/commit/939a20461738c80f9a19bb9ee8fe41030ab6c91e) Release 16.2.0
