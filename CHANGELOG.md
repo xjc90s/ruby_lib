@@ -3,6 +3,10 @@ Commit based release not is [release_notes.md](./release_notes.md)
 
 Release tags are https://github.com/appium/ruby_lib/releases .
 
+## [16.3.0] - 2026-05-11
+- Bump appium_lib_core to 13+
+    - No user facing changes are expected.
+
 ## [16.2.0] - 2026-04-19
 - Define device methods (`lock`, `unlock`, `hide_keyboard`, `push_file`, `pull_file`, `background_app`, `shake`, etc.) natively on `Appium::Driver` via `def_delegators :driver`, replacing the implicit delegation previously set up by `extend ::Appium::Core::Device`. Paves the way for `ruby_lib_core` to drop its static compatibility list (appium/ruby_lib_core#97).
 
